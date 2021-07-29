@@ -1,0 +1,16 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: elastic_dev
+  pool: 5
+  username: postgres
+  password: postgres
+
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: elastic_dev
+  pool: 5
+  username: postgres
+  password: postgres
